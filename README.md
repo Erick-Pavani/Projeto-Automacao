@@ -1,2 +1,2 @@
-# Projeto-Automacao
-Primeiro projeto do curso Python Impressionador
+# Projeto de automação
+Projeto do curso - Python Impressionador
