@@ -1,6 +1,7 @@
-# Projeto de automação
-## Projeto do curso - Python Impressionador
+# Projeto de automação de tarefas com Python
+## Curso - Python Impressionador
 
-- Automatizar o envio de emails com relatórios do faturamento de lojas para os respectivos gerentes
-- Calcular um ranking diário e anual do faturamento de todas as lojas
-- Enviar um email para a diretoria da empresa com os rankings de faturamento de todas as lojas
+### Este projeto automatiza uma série de atribuições relativamente comuns:
+- Calcular um ranking diário e anual do faturamento de todas as lojas da rede pelo país
+- Realizar o envio de emails com todos os relatórios do faturamento das lojas para os seus respectivos gerentes
+- Enviar emails para a diretoria da empresa com os rankings de faturamento das lojas
